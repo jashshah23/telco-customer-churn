@@ -19,21 +19,21 @@ The analysis uses the following Python libraries:
 -Seaborn
 -Scikit-Learn
 
-Machine Lerning Models
-1. NaiveBayes
-2. Logistic Regression 
-3. Random Forest
-4. XGBoost
+Machine Lerning Models-
+- NaiveBayes
+- Logistic Regression 
+-Random Forest
+-XGBoost
 
-SMOTE TECHNIQUE
-SMOTE for Random Forest
-SMOTE for Logistic Regression
-SMOTE for XGBoost
-SMOTE for Naive Bayes
+SMOTE TECHNIQUE-
+-SMOTE for Random Forest
+-SMOTE for Logistic Regression
+-SMOTE for XGBoost
+-SMOTE for Naive Bayes
 
-Hyperparameter Tuning Of Models
-Logistic Regression
-XGboost
+Hyperparameter Tuning Of Models-
+-Logistic Regression
+-XGboost
 
 According to the results,out of both stages of analysis the most accurate model is Naive Bayes with an accuracy of 88%.
 
